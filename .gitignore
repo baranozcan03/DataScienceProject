@@ -1,0 +1,192 @@
+
+Data/my_results_chunk_0.txt
+Data/my_results_chunk_1.txt
+Data/my_results_chunk_10.txt
+Data/my_results_chunk_2.txt
+Data/my_results_chunk_3.txt
+Data/my_results_chunk_4.txt
+Data/my_results_chunk_5.txt
+Data/my_results_chunk_6.txt
+Data/my_results_chunk_7.txt
+Data/my_results_chunk_8.txt
+Data/my_results_chunk_9.txt
+Data/Spotify Account Data/Follow.json
+Data/Spotify Account Data/Identifiers.json
+Data/Spotify Account Data/Identity.json
+Data/Spotify Account Data/Inferences.json
+Data/Spotify Account Data/Marquee.json
+Data/Spotify Account Data/Payments.json
+Data/Spotify Account Data/Playlist1.json
+Data/Spotify Account Data/Read_Me_First.pdf
+Data/Spotify Account Data/SearchQueries.json
+Data/Spotify Account Data/StreamingHistory0.json
+Data/Spotify Account Data/StreamingHistory1.json
+Data/Spotify Account Data/Userdata.json
+Data/Spotify Account Data/YourLibrary.json
+Data/Spotify Technical Log Information/A11yFeatureUsage.json
+Data/Spotify Technical Log Information/AccessoryAutoPull.json
+Data/Spotify Technical Log Information/AccountPagesOverviewImpression.json
+Data/Spotify Technical Log Information/AddedToCollection.json
+Data/Spotify Technical Log Information/AddedToPlaylist.json
+Data/Spotify Technical Log Information/AddedToRootlist.json
+Data/Spotify Technical Log Information/AddToPlaylist.json
+Data/Spotify Technical Log Information/AdLogicARSClient.json
+Data/Spotify Technical Log Information/AdRequestEvent.json
+Data/Spotify Technical Log Information/AdRequestServiceEvent_Hourly.json
+Data/Spotify Technical Log Information/AdsIdentityIosTrackingPermissions.json
+Data/Spotify Technical Log Information/ApAuthenticationSuccess_Hourly.json
+Data/Spotify Technical Log Information/AppFocusState.json
+Data/Spotify Technical Log Information/AppIconEvent.json
+Data/Spotify Technical Log Information/AudioDriverError_Hourly.json
+Data/Spotify Technical Log Information/AudioDriverInfo_Hourly.json
+Data/Spotify Technical Log Information/AudioFileSelection_Hourly.json
+Data/Spotify Technical Log Information/AudioIndexRepairReport_Hourly.json
+Data/Spotify Technical Log Information/AudioOffliningSettingsReport_Hourly.json
+Data/Spotify Technical Log Information/AudioResolve_Hourly.json
+Data/Spotify Technical Log Information/AudioRouteSegmentEnd_Hourly.json
+Data/Spotify Technical Log Information/AudioSessionEvent_Hourly.json
+Data/Spotify Technical Log Information/AudioSessionProxyEvent.json
+Data/Spotify Technical Log Information/AudioSettingsReport_Hourly.json
+Data/Spotify Technical Log Information/AudioStreamingSettingsReport_Hourly.json
+Data/Spotify Technical Log Information/AuthHTTPReqWebapi.json
+Data/Spotify Technical Log Information/AuthorizationCodeExchangeSuccess.json
+Data/Spotify Technical Log Information/AuthorizationCodeRequestSuccess.json
+Data/Spotify Technical Log Information/BasslineRequests.json
+Data/Spotify Technical Log Information/BrokenObject_Hourly.json
+Data/Spotify Technical Log Information/CachePruningReport_Hourly.json
+Data/Spotify Technical Log Information/CacheRealmPruningReport_Hourly.json
+Data/Spotify Technical Log Information/CacheRealmReport_Hourly.json
+Data/Spotify Technical Log Information/CacheReport_Hourly.json
+Data/Spotify Technical Log Information/CanvasLoad.json
+Data/Spotify Technical Log Information/CanvasState.json
+Data/Spotify Technical Log Information/ChurnLockedStateMessage.json
+Data/Spotify Technical Log Information/ClientCoreConnectActiveDeviceRace.json
+Data/Spotify Technical Log Information/ClientCoreConnectCommand.json
+Data/Spotify Technical Log Information/ClientLanguageRaw.json
+Data/Spotify Technical Log Information/ClientLocale.json
+Data/Spotify Technical Log Information/ClientRespondedToConnectStateCommand.json
+Data/Spotify Technical Log Information/ClientSentConnectStateCommand.json
+Data/Spotify Technical Log Information/CollectionLevelDbInfo_Hourly.json
+Data/Spotify Technical Log Information/ConfigurationApplied_Hourly.json
+Data/Spotify Technical Log Information/ConnectActiveDeviceChanged.json
+Data/Spotify Technical Log Information/ConnectConnectivityError.json
+Data/Spotify Technical Log Information/ConnectDeviceSettingsSnapshot.json
+Data/Spotify Technical Log Information/ConnectionError_Hourly.json
+Data/Spotify Technical Log Information/ConnectionInfo_Hourly.json
+Data/Spotify Technical Log Information/ConnectivityHostResolutionFailed.json
+Data/Spotify Technical Log Information/ConnectivityUnableToConnectToPerimeter.json
+Data/Spotify Technical Log Information/ConnectNudgeRequested.json
+Data/Spotify Technical Log Information/ConnectPossibleVolumeSpike.json
+Data/Spotify Technical Log Information/ConnectVolumeControl.json
+Data/Spotify Technical Log Information/ContinuumPageResponseV1.json
+Data/Spotify Technical Log Information/ContinuumSectionResponseV1.json
+Data/Spotify Technical Log Information/CoreAutoplayLoadingResults.json
+Data/Spotify Technical Log Information/CreatePlaylist.json
+Data/Spotify Technical Log Information/CriticalInAppMessagesDisplayEvent.json
+Data/Spotify Technical Log Information/CriticalInAppMessagesInteractionEvent.json
+Data/Spotify Technical Log Information/DailyMixContents.json
+Data/Spotify Technical Log Information/DeeplinkOpen.json
+Data/Spotify Technical Log Information/DesktopAuthenticationSuccess.json
+Data/Spotify Technical Log Information/DesktopGPUAccelerationInfo.json
+Data/Spotify Technical Log Information/DesktopPartnerAPIAuthRequest.json
+Data/Spotify Technical Log Information/DeviceCapabilitiesRequest.json
+Data/Spotify Technical Log Information/DeviceIdentifier.json
+Data/Spotify Technical Log Information/Download_Hourly.json
+Data/Spotify Technical Log Information/DrmRequestFailure_Hourly.json
+Data/Spotify Technical Log Information/EmailerEmailMessage.json
+Data/Spotify Technical Log Information/EnhanceContextAction.json
+Data/Spotify Technical Log Information/EnhancedShuffleTrackFeatures_Hourly.json
+Data/Spotify Technical Log Information/EnhancedShuffleTrackSequences_Hourly.json
+Data/Spotify Technical Log Information/EqualizerInfo.json
+Data/Spotify Technical Log Information/ExternalAccessoryRemoteInteraction.json
+Data/Spotify Technical Log Information/FulfilmentInstructionStart.json
+Data/Spotify Technical Log Information/FulfilmentInstructionStop.json
+Data/Spotify Technical Log Information/FulfilmentRequestStop.json
+Data/Spotify Technical Log Information/GpbCheckoutEvents.json
+Data/Spotify Technical Log Information/HeadFileDownload_Hourly.json
+Data/Spotify Technical Log Information/HomePageRenderedWithQualityScoreEvent_Hourly.json
+Data/Spotify Technical Log Information/HomePodcastCardCandidates.json
+Data/Spotify Technical Log Information/HomeSectionResponse_Hourly.json
+Data/Spotify Technical Log Information/ImageDownload.json
+Data/Spotify Technical Log Information/InAppMessageBackendRequestErrorEvent.json
+Data/Spotify Technical Log Information/InAppMessageCreativeRequestEvent.json
+Data/Spotify Technical Log Information/InAppMessageDiscardedEvent.json
+Data/Spotify Technical Log Information/InAppMessageDismissEvent.json
+Data/Spotify Technical Log Information/InAppMessageImpressionEvent.json
+Data/Spotify Technical Log Information/IosAudioSessionInterruption.json
+Data/Spotify Technical Log Information/KmInteraction.json
+Data/Spotify Technical Log Information/KmPageView.json
+Data/Spotify Technical Log Information/LocalFilesImport_Hourly.json
+Data/Spotify Technical Log Information/LocalFilesReport_Hourly.json
+Data/Spotify Technical Log Information/LocalNetworkPermissionEvent.json
+Data/Spotify Technical Log Information/MarketingResourceComponentView.json
+Data/Spotify Technical Log Information/MarketingResourceView.json
+Data/Spotify Technical Log Information/MessagingPlatformNotificationVisible.json
+Data/Spotify Technical Log Information/MetricMeasurement_Hourly.json
+Data/Spotify Technical Log Information/MinimumLyricsCharactersSeen.json
+Data/Spotify Technical Log Information/NudgeExperimentCustomExposure.json
+Data/Spotify Technical Log Information/OAuthAuthorizeGrant_Hourly.json
+Data/Spotify Technical Log Information/Offline2ClientEvent_Hourly.json
+Data/Spotify Technical Log Information/Offline2ResourceEvent_Hourly.json
+Data/Spotify Technical Log Information/OfflineDeviceEvent_Hourly.json
+Data/Spotify Technical Log Information/OfflineError_Hourly.json
+Data/Spotify Technical Log Information/OfflineEvent_Hourly.json
+Data/Spotify Technical Log Information/OfflineReport_Hourly.json
+Data/Spotify Technical Log Information/OnRepeatContents.json
+Data/Spotify Technical Log Information/ParadoxCampaignOptimizerEvent_Hourly.json
+Data/Spotify Technical Log Information/PaymentFailureNotificationMessage.json
+Data/Spotify Technical Log Information/PaymentRoutingDecision.json
+Data/Spotify Technical Log Information/PermissionTokenCreated.json
+Data/Spotify Technical Log Information/PlaybackError_Hourly.json
+Data/Spotify Technical Log Information/PlaybackFromDeeplink.json
+Data/Spotify Technical Log Information/PlaybackRetry_Hourly.json
+Data/Spotify Technical Log Information/PlaybackSegments_Hourly.json
+Data/Spotify Technical Log Information/PlayedStateApplied.json
+Data/Spotify Technical Log Information/PlayedStateUpdateReason.json
+Data/Spotify Technical Log Information/PlayerAudioSessionInterruption.json
+Data/Spotify Technical Log Information/PlayerStateRestore.json
+Data/Spotify Technical Log Information/PlaylistCreated.json
+Data/Spotify Technical Log Information/PodcastAdOverpad.json
+Data/Spotify Technical Log Information/Prefetch_Hourly.json
+Data/Spotify Technical Log Information/PremiumCheckoutExposure.json
+Data/Spotify Technical Log Information/PremiumDestinationBackendRequestEvent.json
+Data/Spotify Technical Log Information/PriceChangeActivity.json
+Data/Spotify Technical Log Information/ProductDisplayedJS.json
+Data/Spotify Technical Log Information/PushIosDeviceSettingsV1.json
+Data/Spotify Technical Log Information/PushkaCleanupPushEventV1.json
+Data/Spotify Technical Log Information/PushkaPushEventV1.json
+Data/Spotify Technical Log Information/PushkaTokensRegistrationEventV1.json
+Data/Spotify Technical Log Information/ReadMeFirst_TechnicalLogInformation.pdf
+Data/Spotify Technical Log Information/ReleaseRadarServedRecs.json
+Data/Spotify Technical Log Information/RemovedFromCollection.json
+Data/Spotify Technical Log Information/RemovedFromPlaylist.json
+Data/Spotify Technical Log Information/RequestFailure_Hourly.json
+Data/Spotify Technical Log Information/SearchViewResponse.json
+Data/Spotify Technical Log Information/SettingsMutated_Hourly.json
+Data/Spotify Technical Log Information/Share.json
+Data/Spotify Technical Log Information/SmartShuffleOperationResultAction.json
+Data/Spotify Technical Log Information/SocialConnectAvailableSessionsRequested.json
+Data/Spotify Technical Log Information/SportyFormatlistRequest.json
+Data/Spotify Technical Log Information/StorylinesLoad.json
+Data/Spotify Technical Log Information/Stutter_Hourly.json
+Data/Spotify Technical Log Information/StutterPrediction.json
+Data/Spotify Technical Log Information/SystemVolumeControl.json
+Data/Spotify Technical Log Information/TimeMachineIds.json
+Data/Spotify Technical Log Information/TopicMixTracks.json
+Data/Spotify Technical Log Information/TrackNotPlayed_Hourly.json
+Data/Spotify Technical Log Information/TrackPlaybackGenericRequest.json
+Data/Spotify Technical Log Information/TrackStuck_Hourly.json
+Data/Spotify Technical Log Information/UserAuthenticationFailure_Hourly.json
+Data/Spotify Technical Log Information/UserAuthenticationSuccess_Hourly.json
+Data/Spotify Technical Log Information/WebapiEvent.json
+Data/Spotify Technical Log Information/WindowSize.json
+Data/Spotify Technical Log Information/WwwAccountPagesAnalytics.json
+Data/Spotify Technical Log Information/WwwExperiments.json
+Data/Spotify Technical Log Information/YourLibrarySelectedFilters.json
+Data/Spotify Technical Log Information/ZineEvent.json
+Data/SpotifyExtendedStreamingHistory/ReadMeFirst_ExtendedStreamingHistory.pdf
+Data/SpotifyExtendedStreamingHistory/Streaming_History_Audio_2016-2021_0.json
+Data/SpotifyExtendedStreamingHistory/Streaming_History_Audio_2021-2022_1.json
+Data/SpotifyExtendedStreamingHistory/Streaming_History_Audio_2022-2023_2.json
+Data/SpotifyExtendedStreamingHistory/Streaming_History_Audio_2023_3.json
+Data/SpotifyExtendedStreamingHistory/Streaming_History_Video_2018-2023.json
