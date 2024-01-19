@@ -22,8 +22,9 @@ The PowerPoint presentation will walk you through the project steps, but here's 
 #### 5. Assessment of the Hypotheses, Conclusion
 
 ## Additional Resources
+https://drive.google.com/drive/folders/1wrAnFruXBEEiD4UbPIckOV30Yu2WZ51A?usp=sharing
+file for the video and pp.
 PowerPoint Presentation: A detailed breakdown of my project steps and findings.
-
 Video Explanation: A short 8-minute video explaining the PowerPoint presentation and offering insights into my discoveries.
 
 ##### Thank you for taking the time to explore "Slave to the Algorithms." I hope you find the project as fascinating as I did! If you have any questions or feedback, feel free to reach out:
