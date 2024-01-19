@@ -9,6 +9,8 @@ The primary goal of this project is to delve into my Spotify listening habits an
 ## Project Highlights
 While I can't divulge every detail(in order not to waste your time with unimportant things), I'll share some inspiring aspects of my findings. To complement this README, I'll provide a PowerPoint presentation detailing my discoveries, a brief (8-minute but i advise listening on 1.5 speed so 5 minutes) video explaining the presentation(recommended for a comprehensive understanding of the graphics) and giving some insights into my thought process.
 
+//remark : The video exceeds the limit, but you can play it on 1.5 and i will take responsibility of the parts that are not understandable.
+
 ## Presentation Overview
 The PowerPoint presentation will walk you through the project steps, but here's a quick overview:
 
